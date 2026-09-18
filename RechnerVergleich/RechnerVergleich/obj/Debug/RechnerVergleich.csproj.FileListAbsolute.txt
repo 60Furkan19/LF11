@@ -1,0 +1,15 @@
+C:\Users\Furkan.Demirer\source\repos\RechnerVergleich\RechnerVergleich\obj\Debug\RechnerVergleich.csproj.AssemblyReference.cache
+C:\Users\Furkan.Demirer\source\repos\RechnerVergleich\RechnerVergleich\obj\Debug\MainWindow.g.cs
+C:\Users\Furkan.Demirer\source\repos\RechnerVergleich\RechnerVergleich\obj\Debug\App.g.cs
+C:\Users\Furkan.Demirer\source\repos\RechnerVergleich\RechnerVergleich\obj\Debug\RechnerVergleich_MarkupCompile.cache
+C:\Users\Furkan.Demirer\source\repos\RechnerVergleich\RechnerVergleich\obj\Debug\RechnerVergleich_MarkupCompile.lref
+C:\Users\Furkan.Demirer\source\repos\RechnerVergleich\RechnerVergleich\bin\Debug\RechnerVergleich.exe.config
+C:\Users\Furkan.Demirer\source\repos\RechnerVergleich\RechnerVergleich\bin\Debug\RechnerVergleich.exe
+C:\Users\Furkan.Demirer\source\repos\RechnerVergleich\RechnerVergleich\bin\Debug\RechnerVergleich.pdb
+C:\Users\Furkan.Demirer\source\repos\RechnerVergleich\RechnerVergleich\obj\Debug\MainWindow.baml
+C:\Users\Furkan.Demirer\source\repos\RechnerVergleich\RechnerVergleich\obj\Debug\RechnerVergleich.g.resources
+C:\Users\Furkan.Demirer\source\repos\RechnerVergleich\RechnerVergleich\obj\Debug\RechnerVergleich.Properties.Resources.resources
+C:\Users\Furkan.Demirer\source\repos\RechnerVergleich\RechnerVergleich\obj\Debug\RechnerVergleich.csproj.GenerateResource.cache
+C:\Users\Furkan.Demirer\source\repos\RechnerVergleich\RechnerVergleich\obj\Debug\RechnerVergleich.csproj.CoreCompileInputs.cache
+C:\Users\Furkan.Demirer\source\repos\RechnerVergleich\RechnerVergleich\obj\Debug\RechnerVergleich.exe
+C:\Users\Furkan.Demirer\source\repos\RechnerVergleich\RechnerVergleich\obj\Debug\RechnerVergleich.pdb
