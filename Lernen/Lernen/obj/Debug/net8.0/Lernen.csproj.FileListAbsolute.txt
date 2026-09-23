@@ -1,0 +1,14 @@
+C:\Users\Furkan.Demirer\Desktop\Lernen\Lernen\Lernen\bin\Debug\net8.0\Lernen.exe
+C:\Users\Furkan.Demirer\Desktop\Lernen\Lernen\Lernen\bin\Debug\net8.0\Lernen.deps.json
+C:\Users\Furkan.Demirer\Desktop\Lernen\Lernen\Lernen\bin\Debug\net8.0\Lernen.runtimeconfig.json
+C:\Users\Furkan.Demirer\Desktop\Lernen\Lernen\Lernen\bin\Debug\net8.0\Lernen.dll
+C:\Users\Furkan.Demirer\Desktop\Lernen\Lernen\Lernen\bin\Debug\net8.0\Lernen.pdb
+C:\Users\Furkan.Demirer\Desktop\Lernen\Lernen\Lernen\obj\Debug\net8.0\Lernen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan.Demirer\Desktop\Lernen\Lernen\Lernen\obj\Debug\net8.0\Lernen.AssemblyInfoInputs.cache
+C:\Users\Furkan.Demirer\Desktop\Lernen\Lernen\Lernen\obj\Debug\net8.0\Lernen.AssemblyInfo.cs
+C:\Users\Furkan.Demirer\Desktop\Lernen\Lernen\Lernen\obj\Debug\net8.0\Lernen.csproj.CoreCompileInputs.cache
+C:\Users\Furkan.Demirer\Desktop\Lernen\Lernen\Lernen\obj\Debug\net8.0\Lernen.dll
+C:\Users\Furkan.Demirer\Desktop\Lernen\Lernen\Lernen\obj\Debug\net8.0\refint\Lernen.dll
+C:\Users\Furkan.Demirer\Desktop\Lernen\Lernen\Lernen\obj\Debug\net8.0\Lernen.pdb
+C:\Users\Furkan.Demirer\Desktop\Lernen\Lernen\Lernen\obj\Debug\net8.0\Lernen.genruntimeconfig.cache
+C:\Users\Furkan.Demirer\Desktop\Lernen\Lernen\Lernen\obj\Debug\net8.0\ref\Lernen.dll
