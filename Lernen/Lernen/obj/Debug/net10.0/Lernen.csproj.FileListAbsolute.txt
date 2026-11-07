@@ -1,0 +1,15 @@
+C:\Users\kagan\Desktop\Furkan Lernen\LF11\Lernen\Lernen\bin\Debug\net10.0\Lernen.exe
+C:\Users\kagan\Desktop\Furkan Lernen\LF11\Lernen\Lernen\bin\Debug\net10.0\Lernen.deps.json
+C:\Users\kagan\Desktop\Furkan Lernen\LF11\Lernen\Lernen\bin\Debug\net10.0\Lernen.runtimeconfig.json
+C:\Users\kagan\Desktop\Furkan Lernen\LF11\Lernen\Lernen\bin\Debug\net10.0\Lernen.dll
+C:\Users\kagan\Desktop\Furkan Lernen\LF11\Lernen\Lernen\bin\Debug\net10.0\Lernen.pdb
+C:\Users\kagan\Desktop\Furkan Lernen\LF11\Lernen\Lernen\obj\Debug\net10.0\Lernen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kagan\Desktop\Furkan Lernen\LF11\Lernen\Lernen\obj\Debug\net10.0\Lernen.AssemblyInfoInputs.cache
+C:\Users\kagan\Desktop\Furkan Lernen\LF11\Lernen\Lernen\obj\Debug\net10.0\Lernen.AssemblyInfo.cs
+C:\Users\kagan\Desktop\Furkan Lernen\LF11\Lernen\Lernen\obj\Debug\net10.0\Lernen.csproj.CoreCompileInputs.cache
+C:\Users\kagan\Desktop\Furkan Lernen\LF11\Lernen\Lernen\obj\Debug\net10.0\Lernen.sourcelink.json
+C:\Users\kagan\Desktop\Furkan Lernen\LF11\Lernen\Lernen\obj\Debug\net10.0\Lernen.dll
+C:\Users\kagan\Desktop\Furkan Lernen\LF11\Lernen\Lernen\obj\Debug\net10.0\refint\Lernen.dll
+C:\Users\kagan\Desktop\Furkan Lernen\LF11\Lernen\Lernen\obj\Debug\net10.0\Lernen.pdb
+C:\Users\kagan\Desktop\Furkan Lernen\LF11\Lernen\Lernen\obj\Debug\net10.0\Lernen.genruntimeconfig.cache
+C:\Users\kagan\Desktop\Furkan Lernen\LF11\Lernen\Lernen\obj\Debug\net10.0\ref\Lernen.dll
